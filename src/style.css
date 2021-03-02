@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+body,#root{
+    height: 100%;
+}
+.header{
+    background: #fff;
+    border-bottom: 1px solid #999;
+}
+.content{
+    min-height: 550px;
+    margin: 10px;
+}
+.footer{
+    text-align: center;
+    border-top: 1px solid #999;
+    padding: 12px 50px !important;
+}

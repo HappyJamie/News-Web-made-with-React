@@ -1,0 +1,11 @@
+.header-logo{
+    margin-top: 10px;
+    height: 45px;
+    float: left;
+}
+.header-menu{
+    float: left;
+    border-bottom: 1px solid #999;
+    margin-top: -2px;
+    margin-left: 20px;
+}
